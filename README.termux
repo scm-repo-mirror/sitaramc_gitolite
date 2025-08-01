@@ -1,0 +1,6 @@
+This is all I had to do to get it working in termux:
+
+-   add a port line to t/keys/config (port 8022)
+-   `cpan install JSON`
+
+That's it.  It *JUST WORKED!*

@@ -6,6 +6,7 @@ host admin
 host u? admin
 	user %USER
 	hostname localhost
+	port 8022
 host u1
 	identityfile ~/.ssh/u1
 host u2
